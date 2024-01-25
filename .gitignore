@@ -1,0 +1,5 @@
+build/*
+bin/*
+gcm.cache/*
+**/a.out
+
